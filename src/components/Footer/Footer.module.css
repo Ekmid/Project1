@@ -1,7 +1,32 @@
-footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: #f30a0a;
+.footer {
+    background: #1f2022;
+    margin-top: auto;
+    text-align: center;
+    color: white;
+    padding: 3vh 3vh;
+}
+
+.title {
+    font-family: Lilita One;
+    font-weight: bold;
+    font-size: 64px;
+    margin-bottom: 10px;
+    line-height: 100%;
+}
+
+.social span, .last span {
+    font-family: Ubuntu, sans-serif;
+    font-size: 20px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.contacts img {
+    height: 5vh;
+    weight: 5vh;
+    margin: 1vh 1vh;
 }

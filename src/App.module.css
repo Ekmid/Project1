@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+    background: white;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
