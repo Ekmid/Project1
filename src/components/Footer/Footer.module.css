@@ -4,6 +4,7 @@
     text-align: center;
     color: white;
     padding: 3vh 3vh;
+    flex: 0 0 auto;
 }
 
 .title {

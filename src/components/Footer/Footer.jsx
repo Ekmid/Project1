@@ -9,10 +9,10 @@ const Footer = () => {
     <>
         <footer className={styles.footer}>
           <div className={styles.title}>
-            <span>Напиши нам</span>
+            <span>Write to us</span>
           </div>
           <div className={styles.social}>
-            <span>Мы в соц.сетях</span>
+            <span>We are in social</span>
           </div>
           <div className={styles.contacts}>
             <div className={styles.c1}>
@@ -25,7 +25,7 @@ const Footer = () => {
               <a href='#'><img src={vk}></img></a>
             </div>
           </div>
-          <span className={styles.last}>2023 (с) — Все права защищены</span>
+          <span className={styles.last}>2023 (с) — All righs preserved</span>
         </footer>
     </>
   )
