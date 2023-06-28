@@ -72,3 +72,36 @@ navbar a:hover {
         font-family: Ubuntu, sans-serif;
     }
 }
+
+@media only screen and (min-width: 1280px) {
+    navbar a{
+        text-decoration: none;
+        color: black;
+        padding: 0 3vh;
+        font-size: 18px;
+        font-family: Ubuntu, sans-serif;
+        font-weight: lighter;
+    }
+    
+    navbar a:hover {
+        background:rgb(144, 144, 144);
+        transition: 1s;
+        border-radius: 5vh;
+    }
+    
+    .header button {
+        background: #353535;
+        padding: 2vh 6vh;
+        border-radius: 1.45em;
+        color: white;
+        font-size: 15px;
+        font-family: Ubuntu, sans-serif;
+    }
+    
+    .header button:hover {
+        cursor: pointer;
+        background: rgb(0, 0, 0);
+        transition: 0.5s;
+        border-radius: 50vh;
+    }
+}

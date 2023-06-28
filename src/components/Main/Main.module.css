@@ -76,7 +76,7 @@
 
 .card button {
     background: #353535;
-    padding: 2vh 6vh;
+    padding: 1vh 3vh;
     border-radius: 1.45em;
     color: white;
     font-size: 15px;
@@ -139,5 +139,42 @@
         align-items: center;
         margin: 2vh 1vh;
         font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .title {
+        margin: 5vh 0;
+        font-family: Lilita One, cursive;
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 3vh;
+    }
+    
+    .products {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .pr1, .pr2, .pr3, .pr4, .pr5 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 5vh 10vh;
+        font-family: Ubuntu, sans-serif;
+        font-size: 20px;
+    }
+    
+    .products a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .products img { 
+        height: 10vh;
+        width: 10vh;
+        padding-bottom: 3vh;
     }
 }
