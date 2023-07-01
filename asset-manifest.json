@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/practiceSummer/static/css/main.86c537d2.css",
+    "main.js": "/practiceSummer/static/js/main.e9aa654b.js",
+    "static/media/6.jpg": "/practiceSummer/static/media/6.3d35bc92c272813c1d1d.jpg",
+    "static/media/1.png": "/practiceSummer/static/media/1.611ffcc339fc5425aa49.png",
+    "static/media/3.png": "/practiceSummer/static/media/3.2eec87e11c00406e8093.png",
+    "static/media/7.jpg": "/practiceSummer/static/media/7.ce9da3218b30a0bb1850.jpg",
+    "static/media/2.jpg": "/practiceSummer/static/media/2.c2936681cacd116cf657.jpg",
+    "static/media/5.jpeg": "/practiceSummer/static/media/5.efc9c43f477222b63a78.jpeg",
+    "static/media/8.jpg": "/practiceSummer/static/media/8.ee791113e74b86e2b071.jpg",
+    "static/media/4.jpeg": "/practiceSummer/static/media/4.207dd4fcfddc7c07aa2b.jpeg",
+    "static/media/rocket_launch_icon_251995.svg": "/practiceSummer/static/media/rocket_launch_icon_251995.920c8412e5f412277659b55414cb0a1e.svg",
+    "static/media/youtube-color-svgrepo-com.svg": "/practiceSummer/static/media/youtube-color-svgrepo-com.dd47c6bcb87c07f7473d9f8c7764e682.svg",
+    "static/media/telegram-svgrepo-com.svg": "/practiceSummer/static/media/telegram-svgrepo-com.3295c7bd9bf1124c19a978b2c44e09c8.svg",
+    "static/media/square_draw_icon_252083.svg": "/practiceSummer/static/media/square_draw_icon_252083.a4206adc428d6a8ec020bc3ed9e17919.svg",
+    "static/media/iconfinder-social-media-applications-32vk-4102593_113806.svg": "/practiceSummer/static/media/iconfinder-social-media-applications-32vk-4102593_113806.9ce56e3f24f9085437d589a9b1bc519f.svg",
+    "static/media/layers_icon_252068.svg": "/practiceSummer/static/media/layers_icon_252068.1869723ad5e13d8e8ea22dff5dc6da27.svg",
+    "index.html": "/practiceSummer/index.html",
+    "static/media/pencil_pen_icon_252081.svg": "/practiceSummer/static/media/pencil_pen_icon_252081.b0d2571b0425491f5d724738d7e58bdd.svg",
+    "static/media/roller_paint_icon_252077.svg": "/practiceSummer/static/media/roller_paint_icon_252077.2a7c3919414f8ba55b15439faa776bb6.svg",
+    "main.86c537d2.css.map": "/practiceSummer/static/css/main.86c537d2.css.map",
+    "main.e9aa654b.js.map": "/practiceSummer/static/js/main.e9aa654b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c537d2.css",
+    "static/js/main.e9aa654b.js"
+  ]
+}
