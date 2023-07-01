@@ -24,7 +24,7 @@ const Footer = () => {
             <div className={styles.c3}>
               <a href='#'><img src={vk}></img></a>
             </div>
-          </div>
+          </div> 
           <span className={styles.last}>2023 (с) — All righs preserved</span>
         </footer>
     </>
